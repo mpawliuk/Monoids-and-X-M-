@@ -5,7 +5,7 @@ This is code for computing latex X(M) from a monoid M. We look at two specific c
 1. 0-Hecke monoids which come from Coxeter groups.
 2. Hyperplane face monoids.
 
-It was used in the research paper "Almost R-trivial monoids" by Ivan Khatchatourian and Micheal Pawliuk. [I will insert a link when it is on Arxiv.]
+It was used in the research paper "Almost R-trivial monoids are almost never Ramsey" by Ivan Khatchatourian and Micheal Pawliuk. [I will insert a link when it is on Arxiv.]
 
 The code is written in Sage, and can be compiled online, at for example:
 
